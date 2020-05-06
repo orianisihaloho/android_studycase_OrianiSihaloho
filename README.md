@@ -14,6 +14,7 @@ Android Automation include:
 ### Requirements
 * Intellij IDEA
 * Java
+
 Library for dependencies on build.gradle:
 * Selenium 3.141.59
 * Cucumber 5.6.0
